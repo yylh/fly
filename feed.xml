@@ -59,7 +59,7 @@
 <figure class="gallery__item"><a href="https://yylh.github.io/fly/media/posts/1/gallery/Hui-Hua.png" data-size="100x100"><img loading="lazy" src="https://yylh.github.io/fly/media/posts/1/gallery/Hui-Hua-thumbnail.png" alt="" width="100" height="100"></a></figure>
 </div></div>
 <hr>
-<figure class="post__image"><img loading="lazy"  src="https://yylh.github.io/fly/media/posts/1/Hui-Hua.png" sizes="100vw" srcset="https://yylh.github.io/fly/media/posts/1/responsive/Hui-Hua-xs.png 300w ,https://yylh.github.io/fly/media/posts/1/responsive/Hui-Hua-sm.png 480w ,https://yylh.github.io/fly/media/posts/1/responsive/Hui-Hua-md.png 768w ,https://yylh.github.io/fly/media/posts/1/responsive/Hui-Hua-lg.png 1024w ,https://yylh.github.io/fly/media/posts/1/responsive/Hui-Hua-xl.png 1360w ,https://yylh.github.io/fly/media/posts/1/responsive/Hui-Hua-2xl.png 1600w"  alt="" width="141" height="141"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://yylh.github.io/fly/media/posts/1/Hui-Hua.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://yylh.github.io/fly/media/posts/1/responsive/Hui-Hua-xs.png 300w ,https://yylh.github.io/fly/media/posts/1/responsive/Hui-Hua-sm.png 480w ,https://yylh.github.io/fly/media/posts/1/responsive/Hui-Hua-md.png 768w"  alt="" width="141" height="141"></figure>
             ]]>
         </content>
     </entry>
