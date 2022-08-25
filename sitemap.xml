@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://yylh.github.io/fly/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://yylh.github.io/fly/</loc>
+</url>
+<url>
+<loc>https://yylh.github.io/fly/dd.html</loc>
+<lastmod>2022-08-25T17:39:35+08:00</lastmod>
+</url>
+<url>
+<loc>https://yylh.github.io/fly/this-is-big.html</loc>
+<lastmod>2022-08-25T17:39:47+08:00</lastmod>
+</url>
+</urlset>
