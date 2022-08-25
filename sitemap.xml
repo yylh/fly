@@ -1,15 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="file:///D:\Documents\Publii\sites\fly\preview/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://yylh.github.io/fly/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>file:///D:\Documents\Publii\sites\fly\preview/</loc>
+<loc>https://yylh.github.io/fly/</loc>
 </url>
 <url>
-<loc>file:///D:\Documents\Publii\sites\fly\preview/dd.html</loc>
-<lastmod>2022-08-25T17:38:30+08:00</lastmod>
+<loc>https://yylh.github.io/fly/dd.html</loc>
+<lastmod>2022-08-17T17:50:40+08:00</lastmod>
 </url>
 <url>
-<loc>file:///D:\Documents\Publii\sites\fly\preview/this-is-big.html</loc>
-<lastmod>2022-08-25T17:37:34+08:00</lastmod>
+<loc>https://yylh.github.io/fly/this-is-big.html</loc>
+<lastmod>2022-08-18T08:54:21+08:00</lastmod>
+<image:image>
+<image:loc>https://yylh.github.io/fly/media\posts\1/gallery/Ci-Qi-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://yylh.github.io/fly/media\posts\1/gallery/Ci-Xiu-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://yylh.github.io/fly/media\posts\1/gallery/Diao-Ke-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://yylh.github.io/fly/media\posts\1/gallery/Hui-Hua-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://yylh.github.io/fly/media\posts\1/Hui-Hua.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 </urlset>
