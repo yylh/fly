@@ -3,12 +3,31 @@
     <title>fly</title>
     <link href="https://yylh.github.io/fly/feed.xml" rel="self" />
     <link href="https://yylh.github.io/fly" />
-    <updated>2022-08-25T17:54:40+08:00</updated>
+    <updated>2022-08-25T17:57:10+08:00</updated>
     <author>
         <name>fly</name>
     </author>
     <id>https://yylh.github.io/fly</id>
 
+    <entry>
+        <title>中文test</title>
+        <author>
+            <name>fly</name>
+        </author>
+        <link href="https://yylh.github.io/fly/zhong-wen-test.html"/>
+        <id>https://yylh.github.io/fly/zhong-wen-test.html</id>
+
+        <updated>2022-08-25T17:57:10+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>C++ 变量作用域</title>
         <author>
